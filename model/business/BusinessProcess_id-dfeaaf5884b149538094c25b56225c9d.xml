@@ -1,0 +1,16 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gérer les commandes des clients"
+    id="id-dfeaaf5884b149538094c25b56225c9d">
+  <properties
+      key="Author"
+      value="SAIB Abderrahim"/>
+  <properties
+      key="Creation Date"
+      value="30/08/2026"/>
+  <properties
+      key="Last Modification Date"/>
+  <properties
+      key="Version"
+      value="1.0"/>
+</archimate:BusinessProcess>
