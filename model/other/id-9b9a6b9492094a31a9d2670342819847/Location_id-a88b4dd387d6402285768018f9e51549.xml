@@ -1,0 +1,17 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Magasin"
+    id="id-a88b4dd387d6402285768018f9e51549">
+  <properties
+      key="Author"
+      value="Yacine"/>
+  <properties
+      key="Version"
+      value="0.1"/>
+  <properties
+      key="Creation Date"
+      value="30-08-2026"/>
+  <properties
+      key="Last Modification Date"
+      value="30-08-2026"/>
+</archimate:Location>
