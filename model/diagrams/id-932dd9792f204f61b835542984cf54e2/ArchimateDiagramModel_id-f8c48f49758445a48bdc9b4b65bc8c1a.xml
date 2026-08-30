@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organization ViewPoint"
     id="id-f8c48f49758445a48bdc9b4b65bc8c1a"
-    viewpoint="organization">
+    viewpoint="outcome_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-80ec2f7e325642c1a88c55e584ede121"
