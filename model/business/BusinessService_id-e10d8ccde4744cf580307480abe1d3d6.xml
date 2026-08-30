@@ -1,0 +1,16 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collecte des commandes clients"
+    id="id-e10d8ccde4744cf580307480abe1d3d6">
+  <properties
+      key="Author"
+      value="SAIB Abderrahim"/>
+  <properties
+      key="Creation Date"
+      value="30-08-2026"/>
+  <properties
+      key="Last Modification Date"/>
+  <properties
+      key="Version"
+      value="1.0"/>
+</archimate:BusinessService>
